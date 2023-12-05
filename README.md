@@ -1,4 +1,4 @@
-![logo](https://github.com/Tr0z3nAk/Tr0z3nAk/blob/main/Thank.png)
+![logo](https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Thank.png)
 <h1 align="center">Hi 👋, I'm Akash Kumar Parida</h1>
 <h3 align="center">A passionate Data Analytics Student from India</h3>
 
