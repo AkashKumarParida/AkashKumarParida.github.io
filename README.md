@@ -17,8 +17,6 @@
  </p>
 <p align="left">
 <a href="https://github.com/AkashKumarParida" target="Akash Kumar Parida"><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/github-sign.png" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a> </p>
-
-
 <a href="https://instagram.com/tr0z3n_._ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tr0z3n_._ak" height="30" width="40" />     ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida </a>
 
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
