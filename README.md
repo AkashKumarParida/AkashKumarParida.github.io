@@ -9,14 +9,14 @@
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <h2 align="left">Contact Details:</h2>
 <p align="left">
-<a href="https://www.google.com/" target="_blank" rel="noreferrer"></a><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/phone.png" alt="a" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   +91 7735594310 </p>
+<a href="https://www.google.com/" target="_blank" rel="noreferrer"></a><img align="center" src="https://img.icons8.com/?size=80&id=NugLL6kLMZot&format=png" alt="" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   +91 7735594310 </p>
 <p align="left">
 <a href="https://gmail.com" target="blank"></a><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/mail.png" alt="a" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   aakashkumarr59@gmail.com </p>
 <p align="left">
 <a href="https://linkedin.com/in/akash-kumar-parida" target="Akash Kumar Parida"><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/linkedin.png" alt="akash-kumar-parida" height="40" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a>
  </p>
 <p align="left">
-<a href="https://github.com/AkashKumarParida" target="Akash Kumar Parida"><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/github-sign.png" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a> </p>
+<a href="https://github.com/AkashKumarParida" target="Akash Kumar Parida"><img align="center" src="https://img.icons8.com/?size=50&id=12599&format=png" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a> </p>
 <a href="https://instagram.com/tr0z3n_._ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tr0z3n_._ak" height="30" width="40" />     ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida </a>
 
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
