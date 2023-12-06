@@ -11,9 +11,9 @@
 <p align="left">
 <a href="https://www.google.com/" target="_blank" rel="noreferrer"></a><img align="center" src="https://img.icons8.com/?size=80&id=NugLL6kLMZot&format=png" alt="" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   +91 7735594310 </p>
 <p align="left">
-<a href="https://gmail.com" target="blank"></a><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/mail.png" alt="a" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   aakashkumarr59@gmail.com </p>
+<a href="https://gmail.com" target="blank"></a><img align="center" src="https://img.icons8.com/?size=80&id=xLIkjgcmFOsC&format=png" alt="" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   aakashkumarr59@gmail.com </p>
 <p align="left">
-<a href="https://linkedin.com/in/akash-kumar-parida" target="Akash Kumar Parida"><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/linkedin.png" alt="akash-kumar-parida" height="40" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a>
+<a href="https://linkedin.com/in/akash-kumar-parida" target="Akash Kumar Parida"><img align="center" src="https://img.icons8.com/?size=64&id=118979&format=png" alt="akash-kumar-parida" height="40" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a>
  </p>
 <p align="left">
 <a href="https://github.com/AkashKumarParida" target="Akash Kumar Parida"><img align="center" src="https://img.icons8.com/?size=50&id=12599&format=png" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a> </p>
