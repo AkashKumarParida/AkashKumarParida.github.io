@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Parida</h1>
 <h3 align="center">A passionate Data Analytics Student from India</h3>
 
-<img align="right" alt="ak" width="400" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/ak.png"/>
+<img align="right" alt="" height= "350" width="400" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/ak.png"/>
 
 # Akash Kumar Parida
 <h3 align="left">I wish to secure an edge during a company that challenges my skills. I would like to broaden my horizons and gain a special perspective so I’ll cross-check identical factors from a range of angles.</h3>
@@ -17,7 +17,7 @@
  </p>
 <p align="left">
 <a href="https://github.com/AkashKumarParida" target="Akash Kumar Parida"><img align="center" src="https://img.icons8.com/?size=50&id=12599&format=png" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a> </p>
-<a href="https://instagram.com/tr0z3n_._ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tr0z3n_._ak" height="30" width="40" />     ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida </a>
+<a href="https://instagram.com/tr0z3n_._ak" target="blank"><img align="center" src="https://img.icons8.com/?size=80&id=NdqqxfTuEK6C&format=png" alt="tr0z3n_._ak" height="30" width="40" />     ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida </a>
 
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 
@@ -25,8 +25,8 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>    ‌‌‌‌‎    ‌‌‌‌‎  ‌‎   ‌‎    ‌‎   ‌‎  
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>    ‌‌‌‌‎      ‌‌‌‌‎  ‌‎   ‌‎  ‌‎   ‌‎  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></p>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=13441&format=png" alt="python" width="40" height="40"/> </a>    ‌‌‌‌‎    ‌‌‌‌‎  ‌‎   ‌‎    ‌‎   ‌‎  
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=9nLaR5KFGjN0&format=png" alt="mysql" width="40" height="40"/> </a>    ‌‌‌‌‎      ‌‌‌‌‎  ‌‎   ‌‎  ‌‎   ‌‎  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="html5" width="40" height="40"/> </a></p>
 <p>    ‌‌‌‌‎  ‌‎   ‌‎  </p>
 
  <h3 align="left"><img src="https://img.icons8.com/?size=80&id=DAoPjn2XoTUN&format=png" alt="" width="35" height="35"/>     ‌‌‌‌‎  ‌‎   ‌‎  Tools:</h3>
