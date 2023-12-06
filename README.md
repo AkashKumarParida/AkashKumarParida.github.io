@@ -11,15 +11,15 @@
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <h2 align="left">Contact Details:</h2>
 <p align="left">
-<a href="https://www.google.com/" target="_blank" rel="noreferrer"></a><img align="center" src="https://img.icons8.com/?size=80&id=NugLL6kLMZot&format=png" alt="" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   +91 7735594310 </p>
+<a href="https://www.google.com/" target="_blank" rel="noreferrer"></a><img align="center" src="https://img.icons8.com/?size=80&id=NugLL6kLMZot&format=png" alt="" height="35" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   +91 7735594310 </p>
 <p align="left">
-<a href="https://gmail.com" target="blank"></a><img align="center" src="https://img.icons8.com/?size=80&id=xLIkjgcmFOsC&format=png" alt="" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   aakashkumarr59@gmail.com </p>
+<a href="https://gmail.com" target="blank"></a><img align="center" src="https://img.icons8.com/?size=80&id=xLIkjgcmFOsC&format=png" alt="" height="35" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   aakashkumarr59@gmail.com </p>
 <p align="left">
 <a href="https://linkedin.com/in/akash-kumar-parida" target="Akash Kumar Parida"><img align="center" src="https://img.icons8.com/?size=64&id=118979&format=png" alt="akash-kumar-parida" height="40" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a>
  </p>
 <p align="left">
-<a href="https://github.com/AkashKumarParida" target="Akash Kumar Parida"><img align="center" src="https://img.icons8.com/?size=50&id=12599&format=png" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a> </p>
-<a href="https://instagram.com/tr0z3n_._ak" target="blank"><img align="center" src="https://img.icons8.com/?size=80&id=NdqqxfTuEK6C&format=png" alt="tr0z3n_._ak" height="30" width="40" />     ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida </a>
+<a href="https://github.com/AkashKumarParida" target="Akash Kumar Parida"><img align="center" src="https://img.icons8.com/?size=50&id=12599&format=png" height="35" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a> </p>
+<a href="https://instagram.com/tr0z3n_._ak" target="blank"><img align="center" src="https://img.icons8.com/?size=80&id=NdqqxfTuEK6C&format=png" alt="tr0z3n_._ak" height="35" width="40" />     ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida </a>
 
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 
@@ -33,7 +33,7 @@
 
 </th>
  <th>
- <h3 align="center"><img src="https://img.icons8.com/?size=80&id=DAoPjn2XoTUN&format=png" alt="" width="35" height="35"/>     ‌‌‌‌‎  ‌‎  Tools:</h3>
+ <h3 align="center"><img src="https://img.icons8.com/?size=80&id=DAoPjn2XoTUN&format=png" alt="" width="32" height="35"/>     ‌Tools:</h3>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 
  
