@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Parida</h1>
 <h3 align="center">A passionate Data Analytics Student from India</h3>
 
-<img align="right" src="https://i.ibb.co/Q8wRzj3/ak.png" alt="a" width="400px" />
+<img align="right" src="https://i.ibb.co/Q8wRzj3/ak.png" alt="a" width="4370px" />
 
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
