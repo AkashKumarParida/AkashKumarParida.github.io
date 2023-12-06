@@ -9,9 +9,9 @@
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <h2 align="left">Contact Details:</h2>
 <p align="left">
-<img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/phone.png" alt="a" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   +91 7735594310 </p>
+<a href="https://google.com" target="blank"></a><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/phone.png" alt="a" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   +91 7735594310 </p>
 <p align="left">
-<img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/mail.png" alt="a" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   aakashkumarr59@gmail.com </p>
+<a href="https://gmail.com" target="blank"></a><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/mail.png" alt="a" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   aakashkumarr59@gmail.com </p>
 <p align="left">
 <a href="https://linkedin.com/in/akash-kumar-parida" target="Akash Kumar Parida"><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/linkedin.png" alt="akash-kumar-parida" height="40" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a>
  </p>
