@@ -29,7 +29,7 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>    ‌‌‌‌‎      ‌‌‌‌‎  ‌‎   ‌‎  ‌‎   ‌‎  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></p>
 <p>    ‌‌‌‌‎  ‌‎   ‌‎  </p>
 
- <h3 align="left"><img src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/web-analytics.png" alt="aaaa" width="35" height="35"/>     ‌‌‌‌‎  ‌‎   ‌‎  Tools:</h3>
+ <h3 align="left"><img src="https://img.icons8.com/?size=80&id=DAoPjn2XoTUN&format=png" alt="" width="35" height="35"/>     ‌‌‌‌‎  ‌‎   ‌‎  Tools:</h3>
 
 
  
