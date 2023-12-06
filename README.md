@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Parida</h1>
 <h3 align="center">A passionate Data Analytics Student from India</h3>
 
-<img align="Center" alt="ak" width="400" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/a%20(2).png">
+<img class="center" alt="ak" width="400" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/a%20(2).png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
