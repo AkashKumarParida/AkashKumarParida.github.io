@@ -6,10 +6,19 @@
 
 # Akash Kumar Parida
 <h3 align="left">I wish to secure an edge during a company that challenges my skills. I would like to broaden my horizons and gain a special perspective so I’ll cross-check identical factors from a range of angles.</h3>
-  
+
+<h2 align="left">Contact Details:</h2>
 <p align="left">
-<img align="center" src="https://worldvectorlogo.com/logo/viber-icon" alt="a" height="30" width="40" />  +91 7735594310 </p>
-<a href="https://linkedin.com/in/akash-kumar-parida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-kumar-parida" height="30" width="40" /></a>
+<img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/phone.png" alt="a" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   +91 7735594310 </p>
+<p align="left">
+<img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/mail.png" alt="a" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   aakashkumarr59@gmail.com </p>
+<p align="left">
+<a href="https://linkedin.com/in/akash-kumar-parida" target="Akash Kumar Parida"><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/linkedin.png" alt="akash-kumar-parida" height="40" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a>
+ </p>
+<p align="left">
+<a href="https://github.com/AkashKumarParida" target="Akash Kumar Parida"><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/github-sign.png" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida</a> </p>
+
+
 <a href="https://instagram.com/tr0z3n_._ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tr0z3n_._ak" height="30" width="40" /></a>
 </p>
 
