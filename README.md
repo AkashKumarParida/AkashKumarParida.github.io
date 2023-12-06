@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Akash Kumar Parida</h1>
-<h3 align="center">A passionate Data Analytics Student from India</h3>
+<h1 align="center">Hi 👋, Welcome to my PORTOFOLIO</h1>
+<h3 align="center">For me PROGRESS is the PROFESSION</h3>
 
 <img align="right" src="https://i.ibb.co/Q8wRzj3/ak.png" alt="a" width="437px" />
 
