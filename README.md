@@ -5,8 +5,10 @@
 <img align="right" alt="ak" width="400" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/a%20(2).png">
 
 # Akash Kumar Parida
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I wish to secure an edge during a company that challenges my skills. I would like to broaden my horizons and gain a special perspective so I’ll cross-check identical factors from a range of angles.</h3>
+  
 <p align="left">
+<img align="center" src="https://worldvectorlogo.com/logo/viber-icon" alt="a" height="30" width="40" />  +91 7735594310 </p>
 <a href="https://linkedin.com/in/akash-kumar-parida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-kumar-parida" height="30" width="40" /></a>
 <a href="https://instagram.com/tr0z3n_._ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tr0z3n_._ak" height="30" width="40" /></a>
 </p>
