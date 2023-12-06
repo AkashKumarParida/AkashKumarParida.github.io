@@ -20,7 +20,7 @@
 
 
 <a href="https://instagram.com/tr0z3n_._ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tr0z3n_._ak" height="30" width="40" />     ‌‌‌‌‎  ‌‎   ‌‎  Akash Kumar Parida </a>
-</p>
+
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 
 <h2 align="left">   ‌‌‌‌‎  ‌‎   ‌‎  Skills:</h2>
