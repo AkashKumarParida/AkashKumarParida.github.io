@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Parida</h1>
 <h3 align="center">A passionate Data Analytics Student from India</h3>
 
-<img class="center" alt="ak" width="400" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/a%20(2).png">
+<img align="right" alt="ak" width="400" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/a%20(2).png">
 
+# Akash Kumar Parida
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akash-kumar-parida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-kumar-parida" height="30" width="40" /></a>
