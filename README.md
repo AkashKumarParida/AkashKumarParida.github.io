@@ -9,7 +9,7 @@
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <h2 align="left">Contact Details:</h2>
 <p align="left">
-<a href="https://google.com" target="blank"></a><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/phone.png" alt="a" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   +91 7735594310 </p>
+<a href="https://www.google.com/" target="_blank" rel="noreferrer"></a><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/phone.png" alt="a" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   +91 7735594310 </p>
 <p align="left">
 <a href="https://gmail.com" target="blank"></a><img align="center" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/Github/mail.png" alt="a" height="30" width="40" />       ‌‌‌‌‎  ‌‎   ‌‎   aakashkumarr59@gmail.com </p>
 <p align="left">
