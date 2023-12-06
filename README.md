@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Parida</h1>
 <h3 align="center">A passionate Data Analytics Student from India</h3>
 
-<img align="right" alt="ak" width="400" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/a%20(2).png">
+<img align="right" alt="ak" width="400" src="https://github.com/AkashKumarParida/AkashKumarParida.github.io/blob/main/ak.png"/>
 
 # Akash Kumar Parida
 <h3 align="left">I wish to secure an edge during a company that challenges my skills. I would like to broaden my horizons and gain a special perspective so I’ll cross-check identical factors from a range of angles.</h3>
