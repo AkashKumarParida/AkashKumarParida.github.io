@@ -6,7 +6,7 @@
 
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
-<h1 align="left">Akash Kumar Parida</h1>
+<h1 align="center">Akash Kumar Parida</h1>
 <h3 align="left">I wish to secure an edge during a company that challenges my skills. I would like to broaden my horizons and gain a special perspective so I’ll cross-check identical factors from a range of angles.</h3>
 <p>     ‌‌‌‌‎  ‌‎   ‌‎  </p>
 <h2 align="left">Contact Details:</h2>
