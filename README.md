@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, Welcome to my PORTOFOLIO</h1>
+<h1 align="center">Hi 👋, Welcome to my PORTFOLIO</h1>
 <h3 align="center">For me PROGRESS is the PROFESSION</h3>
 
 <img align="right" src="https://i.ibb.co/Q8wRzj3/ak.png" alt="a" width="437px" />
