@@ -25,7 +25,7 @@
 
 <h2 align="left">   ‌‌‌‌‎  ‌‎   ‌‎  Skills:</h2>
 <table><tr>
-<th><h3 align="center"><img src="https://img.icons8.com/?size=48&id=sm8CzMKNcuhi&format=png" alt="" width="32" height="35"/> Languages:</h3>
+<th><h3 align="center"><img src="https://img.icons8.com/?size=48&id=sm8CzMKNcuhi&format=png" alt="" width="35" height="35"/> Languages:</h3>
  <p>     ‌‌‌‌‎  ‌‎   </p>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=13441&format=png" alt="python" width="40" height="40"/> </a>     ‌‌‌‌‎  ‌‎      ‌‌‌‌‎   ‌‎   ‌‎    ‌‎   ‌‎  
